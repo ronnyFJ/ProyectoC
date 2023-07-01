@@ -1,0 +1,8 @@
+   ID      IDENTIFICACION    NOMBRE       APELLIDO      SEXO      FECHA DE NACIMIENTO       EDAD
+
+
+    1       4023334152400     Ronny        Fajardo        M             06-09-2000            18
+    2       0029082333090    Miguel      Rodriguez        M             09-04-1988            30
+    3       0002221113334    Pamela      Alcantara        F             19-09-2000            18
+    4       0012223344234     Felix        Peguero        M             11-09-1996            22
+    5       1234567898888    Charly         Mendez        M             08-04-2000            18

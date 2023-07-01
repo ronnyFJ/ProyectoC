@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\DELL\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\DELL\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\DELL\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\DELL\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
